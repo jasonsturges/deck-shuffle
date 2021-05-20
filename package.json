@@ -1,19 +1,19 @@
 {
-  "name": "typescript-npm-package",
-  "version": "1.0.0",
-  "description": "TypeScript library npm package boilerplate",
+  "name": "deck-shuffle",
+  "version": "0.9.0",
+  "description": "Deck shuffling algorithm",
   "author": "Jason Sturges <jason@jsonsturges.com> (https://jasonsturges.com)",
-  "homepage": "https://github.com/jasonsturges/typescript-npm-package",
+  "homepage": "https://github.com/jasonsturges/deck-shuffle",
   "license": "ISC",
   "keywords": [
-    "typescript",
-    "npm",
-    "package",
-    "boilerplate"
+    "deck",
+    "cards",
+    "shuffle",
+    "algorithm"
   ],
-  "main": "dist/typescript-npm-package.cjs.js",
-  "module": "dist/typescript-npm-package.esm.js",
-  "browser": "dist/typescript-npm-package.umd.js",
+  "main": "dist/deck-shuffle.cjs.js",
+  "module": "dist/deck-shuffle.esm.js",
+  "browser": "dist/deck-shuffle.umd.js",
   "files": [
     "dist"
   ],
